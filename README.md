@@ -1,1 +1,1 @@
-Project Status: Feature Two Completed
+Project Status: Feature One and Two competed
